@@ -2,7 +2,7 @@ title: "Community Income Tax Services"
 email: "info@erictaxpro.com"
 description: >- # this means to ignore newlines until "baseurl:"
  Community Income Tax Services (CITS)
- baseurl: "/erictaxpro-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/erictaxpro-jekyll" # the subpath of your site, e.g. /blog
 url: "https://johnny-mom.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 facebook_url: https://www.facebook.com/CITSTaxService/
 # twitter_url: https://twitter.com/tryghost
