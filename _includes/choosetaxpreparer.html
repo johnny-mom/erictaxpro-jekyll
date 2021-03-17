@@ -1,0 +1,24 @@
+<section class="blog-area grey-bg pt-100 pb-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center pb-40">
+                <div class="section-title service-title">
+                    <h2>Choosing a Tax Preparer</h2>
+                    <p>Watch these videos and educate yourself!</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% for post in site.posts limit:"3" %}
+            <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                <div class="blog-wrapper home-blog-wrapper white-bg">
+                    <div class="blog-thumb">
+                        <iframe src="https://www.youtube.com/embed/{{post.youtube_video_id}}?controls=0 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
