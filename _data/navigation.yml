@@ -1,41 +1,41 @@
 #Please use the main menu items under the "text"
 
 - text: Home
-  url: /
+  url: /erictaxpro-jekyll
 - text: About
-  url: /pages/about
+  url: about
 - text: Services
-  url: /pages/services
+  url: services
 - text: Client Tools
   url: 
   submenu:
   - text: Client Portal
     url: https://portal.staypaperless.com/?id=cWxiWFNIQThwUG54R2puVFNOYkx6UT09
   - text: Tax Deduction Checklists
-    url: /pages/tax-deduction-checklists
+    url: tax-deduction-checklists
   - text: Advantages for the Tax Payer
     url: taxpayer-advantages
   - text: Useful Links
     url: useful-links
 - text: FAQ    
-  url: /pages/faq
+  url: faq
 - text: Contact
-  url: /pages/contact
+  url: contact
 
-- text: Pages
-  url: /
-  submenu:
-  - text: Services
-    url: /pages/services
-  - text: Service Details
-    url: /pages/services-details
-  - text: Portfolio
-    url: /pages/portfolio   
-  - text: Portfolio Details
-    url: /pages/portfolio-details 
-  - text: About Us
-    url: /pages/about
-  - text: Contact
-    url: /pages/contact
-  - text: 404
-    url: /pages/404
+# - text: Pages
+#   url: /
+#   submenu:
+#   - text: Services
+#     url: /pages/services
+#   - text: Service Details
+#     url: /pages/services-details
+#   - text: Portfolio
+#     url: /pages/portfolio   
+#   - text: Portfolio Details
+#     url: /pages/portfolio-details 
+#   - text: About Us
+#     url: /pages/about
+#   - text: Contact
+#     url: /pages/contact
+#   - text: 404
+#     url: /pages/404
