@@ -3,24 +3,24 @@
 - text: Home
   url: /
 - text: About
-  url: about
+  url: /pages/about
 - text: Services
-  url: services
+  url: /pages/services
 - text: Client Tools
   url: /
   submenu:
   - text: Client Portal
     url: https://portal.staypaperless.com/?id=cWxiWFNIQThwUG54R2puVFNOYkx6UT09
   - text: Tax Deduction Checklists
-    url: tax-deduction-checklists
+    url: /pages/tax-deduction-checklists
   - text: Advantages for the Tax Payer
-    url: taxpayer-advantages
+    url: /pages/taxpayer-advantages
   - text: Useful Links
-    url: useful-links
+    url: /pages/useful-links
 - text: FAQ    
-  url: faq
+  url: /pages/faq
 - text: Contact
-  url: contact
+  url: /pages/contact
 
 # - text: Pages
 #   url: /
