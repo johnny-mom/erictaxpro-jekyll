@@ -1,13 +1,13 @@
 #Please use the main menu items under the "text"
 
 - text: Home
-  url: /erictaxpro-jekyll
+  url: /
 - text: About
   url: about
 - text: Services
   url: services
 - text: Client Tools
-  url: 
+  url: /
   submenu:
   - text: Client Portal
     url: https://portal.staypaperless.com/?id=cWxiWFNIQThwUG54R2puVFNOYkx6UT09
