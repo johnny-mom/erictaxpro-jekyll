@@ -3,7 +3,7 @@ email: "info@erictaxpro.com"
 description: >- # this means to ignore newlines until "baseurl:"
  Community Income Tax Services (CITS)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cits.johnnymom.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 facebook_url: https://www.facebook.com/CITSTaxService/
 # twitter_url: https://twitter.com/tryghost
 # github_url:  https://github.com/TryGhost/Ghost
