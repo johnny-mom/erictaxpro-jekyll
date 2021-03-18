@@ -21,7 +21,9 @@
     {% if page.date %}<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">{% endif %}	
 
     <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}</title>
-    <link rel="icon" href="{{site.baseurl}}/assets/img/favicon.png">
+    
+    <!-- <link rel="icon" href="{{site.baseurl}}/assets/img/favicon.png"> -->
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/fontawesome.min.css">
