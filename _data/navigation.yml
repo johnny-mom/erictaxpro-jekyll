@@ -13,8 +13,8 @@
     url: https://portal.staypaperless.com/?id=cWxiWFNIQThwUG54R2puVFNOYkx6UT09
   - text: Tax Deduction Checklists
     url: /pages/tax-deduction-checklists
-  - text: Advantages for the Tax Payer
-    url: /pages/taxpayer-advantages
+  #- text: Advantages for the Tax Payer
+    #url: /pages/taxpayer-advantages
   - text: Useful Links
     url: /pages/useful-links
 - text: FAQ    
